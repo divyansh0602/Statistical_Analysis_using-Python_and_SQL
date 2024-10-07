@@ -1,1 +1,2 @@
 # Statistical_Analysis_using-Python_and_SQL
+In this we create a project for maximizing revenue for Taxi Cab Drivers through Payment Type Analysis. This project's main goal is to run an A/B test(Hypothesis test) to examine the relationship between the total fare and the method of payment. We use Python hypothesis testing and descriptive statistics to extract useful information that can help taxi drivers generate more cash. In particular, we want to find out if there is a big difference in the fares for those who pay with credit cards versus those who pay with cash.
